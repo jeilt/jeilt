@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\виктор\documents\visual studio 2015\projects\oiblaba3.1\oiblaba3.1\source.cpp(10): warning C4244: =: преобразование "__int64" в "unsigned short", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\oiblaba3.1\oiblaba3.1\source.cpp(11): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\oiblaba3.1\oiblaba3.1\source.cpp(32): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+  OIBlaba3.1.vcxproj -> c:\users\виктор\documents\visual studio 2015\Projects\OIBlaba3.1\Debug\OIBlaba3.1.exe
+  OIBlaba3.1.vcxproj -> c:\users\виктор\documents\visual studio 2015\Projects\OIBlaba3.1\Debug\OIBlaba3.1.pdb (Full PDB)

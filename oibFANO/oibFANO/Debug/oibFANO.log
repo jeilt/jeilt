@@ -1,0 +1,37 @@
+﻿  Source.cpp
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(55): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(32): warning C4101: d: неиспользованная локальная переменная
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(98): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(125): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(126): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(93): warning C4101: k: неиспользованная локальная переменная
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(176): warning C4101: a: неиспользованная локальная переменная
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(223): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(246): warning C4244: аргумент: преобразование "__int64" в "long", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(198): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(199): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(217): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(218): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(195): warning C4101: temp: неиспользованная локальная переменная
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(333): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(377): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(301): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(387): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(294): warning C4101: x: неиспользованная локальная переменная
+c:\users\виктор\documents\visual studio 2015\projects\oibfano\oibfano\source.cpp(295): warning C4101: ch: неиспользованная локальная переменная
+  oibFANO.vcxproj -> C:\Users\Виктор\Documents\Visual Studio 2015\Projects\oibFANO\Debug\oibFANO.exe
+  oibFANO.vcxproj -> C:\Users\Виктор\Documents\Visual Studio 2015\Projects\oibFANO\Debug\oibFANO.pdb (Full PDB)
